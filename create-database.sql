@@ -1,0 +1,4 @@
+CREATE DATABASE DemoData;
+GO
+USE DemoData;
+GO
